@@ -5,8 +5,8 @@ const Home =()=>{
         <HomeDiv>
             <div className="container">
                 <HomeInfoDiv>
-                    <HomeTitleH2>Hamza Nabil</HomeTitleH2>
-                    <HomeInfoH4>Creative Director</HomeInfoH4>
+                    <HomeTitleH2>Moaz Syria</HomeTitleH2>
+                    <HomeInfoH4>Fornt-End</HomeInfoH4>
                     <HomeDescP>
                         Iam a professional <HomeDescPSpan>UX Designer</HomeDescPSpan> and Front-End Developer creating modern and resposive designs to Web and Mobile. Let us work together. Thank you. 
                     </HomeDescP>

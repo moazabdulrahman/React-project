@@ -1,10 +1,11 @@
 import React from 'react'
+import {FooterDiv,FooterDivP} from './FooterStyle.js'
 
 const Footer =()=>{
     return(
-        <div>
-            Footer
-        </div>
+        <FooterDiv>
+            <FooterDivP> copyright &copy; 2020 by ultra profile </FooterDivP>
+        </FooterDiv>
     )
 }
 export default Footer
